@@ -1,3 +1,18 @@
+
 h3{
 	text-align: center;
+}
+
+.nav-item{
+	border: 1.5px solid #198754;
+    border-radius: 10px;
+    margin-left: 10px;
+
+
+}
+li:active, li:hover {
+	color: #198754;
+	background-color:#198754;
+	border-color: #198754;
+	border: #198754;
 }
