@@ -4,15 +4,15 @@ h3{
 }
 
 .nav-item{
-	border: 1.5px solid #198754;
-    border-radius: 10px;
     margin-left: 10px;
+}
+h5{
+	color: #553A00;
+	font-family: sans-serif;
 
 
 }
-li:active, li:hover {
-	color: #198754;
-	background-color:#198754;
-	border-color: #198754;
-	border: #198754;
+li:hover {
+	background-color: #FFD4AA;
 }
+
